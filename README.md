@@ -35,5 +35,10 @@ I am an Information Systems graduate passionate about web development and softwa
 - Explore cloud deployment and CI/CD pipelines  
 - Learn new programming languages and frameworks  
 
-,### 💬 Fun Fact
+### 📫 Contact Me
+- Email: [uwimanaabel49@gmail.com](mailto:uwimanaabel49@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/abel-uwimana-36b014379](https://www.linkedin.com/in/abel-uwimana-36b014379)  
+- GitHub: [https://github.com/abeluwimana](https://github.com/abeluwimana)  
+
+### 💬 Fun Fact
 I love solving problems with code, learning new technologies, and creating impactful digital solutions.
