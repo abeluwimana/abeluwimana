@@ -4,7 +4,7 @@
 Kigali City, Rwanda
 
 ### 💡 About Me
-I am an Information Systems graduate passionate about web development and software engineering. I have practical experience in software development, ERP/POS system optimization, and digital marketing. I am eager to **learn new programming languages, frameworks, and technologies** to become a skilled Full Stack Developer.
+I am an Information Systems graduate passionate about web development and software engineering. I have practical experience in software development, and digital marketing. I am eager to **learn new programming languages, frameworks, and technologies** to become a skilled Full Stack Developer.
 
 ### 💼 Work Experience
 **Software Developer Intern** – Ishyiga Software Algorithm Inc. (Jul 2024 – Jan 2025)  
