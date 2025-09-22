@@ -22,6 +22,7 @@ I am an Information Systems graduate passionate about web development and softwa
 ### 🛠️ Skills
 **Programming:** Java, C, C++, PHP (basics)  
 **Frontend:** HTML5, CSS, JavaScript 
+
 **Backend:** SQL
 **Tools & Platforms:** Git/GitHub, Visual Studio Code, Eclipse, NetBeans  
 **Other Skills:** Problem-solving, Teamwork, Communication  
