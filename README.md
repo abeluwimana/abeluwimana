@@ -21,15 +21,14 @@ I am an Information Systems graduate passionate about web development and softwa
 
 ### 🛠️ Skills
 **Programming:** Java, C, C++, PHP (basics)  
-**Frontend:** HTML5, CSS3, JavaScript (ES6+)  
-**Backend:** Node.js (learning), SQL/NoSQL  
+**Frontend:** HTML5, CSS, JavaScript 
+**Backend:** SQL
 **Tools & Platforms:** Git/GitHub, Visual Studio Code, Eclipse, NetBeans  
 **Other Skills:** Problem-solving, Teamwork, Communication  
 
 ### 🎓 Education
-**Bachelor’s Degree in Information Systems** – University of Rwanda (2021 – 2025)  
-**Advanced Certificate in Mathematics, Computer Science, and Economics** – G.S Remera Indangamirwa (2017 – 2019)  
-
+**Bachelor’s Degree in Information Systems** 
+**Advanced Certificate in Mathematics, Computer Science, and Economics**
 ### 🌱 Learning Goals
 - Master Full Stack Development (React, Node.js, databases)  
 - Explore cloud deployment and CI/CD pipelines  
